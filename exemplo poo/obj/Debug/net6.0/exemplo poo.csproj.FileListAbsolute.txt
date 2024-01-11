@@ -1,0 +1,15 @@
+D:\OneDrive\Desktop\exemplo poo\bin\Debug\net6.0\exemplo poo.exe
+D:\OneDrive\Desktop\exemplo poo\bin\Debug\net6.0\exemplo poo.deps.json
+D:\OneDrive\Desktop\exemplo poo\bin\Debug\net6.0\exemplo poo.runtimeconfig.json
+D:\OneDrive\Desktop\exemplo poo\bin\Debug\net6.0\exemplo poo.dll
+D:\OneDrive\Desktop\exemplo poo\bin\Debug\net6.0\exemplo poo.pdb
+D:\OneDrive\Desktop\exemplo poo\obj\Debug\net6.0\exemplo poo.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\exemplo poo\obj\Debug\net6.0\exemplo poo.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\exemplo poo\obj\Debug\net6.0\exemplo poo.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\exemplo poo\obj\Debug\net6.0\exemplo poo.AssemblyInfo.cs
+D:\OneDrive\Desktop\exemplo poo\obj\Debug\net6.0\exemplo poo.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\exemplo poo\obj\Debug\net6.0\exemplo poo.dll
+D:\OneDrive\Desktop\exemplo poo\obj\Debug\net6.0\refint\exemplo poo.dll
+D:\OneDrive\Desktop\exemplo poo\obj\Debug\net6.0\exemplo poo.pdb
+D:\OneDrive\Desktop\exemplo poo\obj\Debug\net6.0\exemplo poo.genruntimeconfig.cache
+D:\OneDrive\Desktop\exemplo poo\obj\Debug\net6.0\ref\exemplo poo.dll
