@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Desktop\\exemplo poo\\exemplo poo.csproj": {}
+    "D:\\OneDrive\\Desktop\\decola tech\\exemplo_poo\\exemplo poo.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Desktop\\exemplo poo\\exemplo poo.csproj": {
+    "D:\\OneDrive\\Desktop\\decola tech\\exemplo_poo\\exemplo poo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Desktop\\exemplo poo\\exemplo poo.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Desktop\\decola tech\\exemplo_poo\\exemplo poo.csproj",
         "projectName": "exemplo poo",
-        "projectPath": "D:\\OneDrive\\Desktop\\exemplo poo\\exemplo poo.csproj",
+        "projectPath": "D:\\OneDrive\\Desktop\\decola tech\\exemplo_poo\\exemplo poo.csproj",
         "packagesPath": "C:\\Users\\--\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Desktop\\exemplo poo\\obj\\",
+        "outputPath": "D:\\OneDrive\\Desktop\\decola tech\\exemplo_poo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\--\\AppData\\Roaming\\NuGet\\NuGet.Config",
