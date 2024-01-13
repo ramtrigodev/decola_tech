@@ -12,7 +12,6 @@ c1.ExibirSaldo();
 c1.Sacar(500);
 c1.ExibirSaldo();
 
-*/
 
 Aluno a1 = new Aluno ();
 a1.Nome = "Ramon Trigo";
@@ -20,3 +19,8 @@ a1.Idade = 39;
 a1.Email = "ramtrigo@hotmail.com";
 a1.Nota = 10;
 a1.Apresentar();
+*/
+
+Corrente c = new Corrente ();
+c.Creditar(500);
+c.ExibirSaldo();
