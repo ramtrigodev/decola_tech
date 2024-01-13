@@ -19,8 +19,11 @@ a1.Idade = 39;
 a1.Email = "ramtrigo@hotmail.com";
 a1.Nota = 10;
 a1.Apresentar();
-*/
+
 
 Corrente c = new Corrente ();
 c.Creditar(500);
 c.ExibirSaldo();
+*/
+Computador c = new Computador();
+Console.WriteLine(c.ToString());
